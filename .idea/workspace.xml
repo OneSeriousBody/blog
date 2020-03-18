@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7dcbf32-22f3-49d2-b0e1-df350dd22b54" name="Default" comment="" />
+    <list default="true" id="f7dcbf32-22f3-49d2-b0e1-df350dd22b54" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-pro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-pro.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +51,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="536c03b4-8f74-4e77-9d8f-bc9b06525f50" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -75,6 +86,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;DB2 (LUW)" />
@@ -88,7 +100,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="DockerRegistry" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -404,6 +416,8 @@
       <workItem from="1584493864498" duration="521000" />
       <workItem from="1584494393104" duration="2000" />
       <workItem from="1584501821022" duration="292000" />
+      <workItem from="1584535681601" duration="2373000" />
+      <workItem from="1584575439208" duration="136000" />
     </task>
     <servers />
   </component>
@@ -431,6 +445,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584169748556" />
+    <state x="358" y="1" key="CommitChangelistDialog2" timestamp="1584538020281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="358" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584538020281" />
     <state x="548" y="138" key="FileChooserDialogImpl" timestamp="1584494151098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -467,10 +485,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="346" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584187179336" />
-    <state x="262" y="0" key="SettingsEditor" timestamp="1584447752661">
+    <state x="262" y="0" key="SettingsEditor" timestamp="1584575583395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584447752661" />
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584575583395" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1584150714680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
