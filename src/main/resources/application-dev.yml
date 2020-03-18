@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.71.128:3306/blog?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123
+  jpa:
+    hibernate:
+      # 每次运行程序，没有表格会新建表格，表内有数据不会清空，只会更新
+      ddl-auto: update
+    show-sql: true
+
+logging:
+  level:
+    root: info
+    com.lrm: debug
+  file: log/blog-dev.log
+
+
+
