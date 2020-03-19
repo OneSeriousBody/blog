@@ -334,9 +334,9 @@ public class LogAspect {
 实体关系：
 
 + Blog : Type	-->	n : 1
-  + Blog : Tag       -->n : m
-    + Blog : User-->n : 1
-    + Blog : Comment-->1 : n
++ Blog : Tag       -->n : m
++ Blog : User-->n : 1
++ Blog : Comment-->1 : n
 
 
 
