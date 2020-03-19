@@ -1,7 +1,8 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/blog?useUnicode=true&characterEncoding=utf-8
+# url为虚拟机ip地址
+    url: jdbc:mysql://192.168.71.125:3306/blog?useUnicode=true&characterEncoding=utf-8
     username: root
     password: 123
   jpa:
@@ -15,5 +16,4 @@ logging:
     root: info
     com.lrm: debug
   file: log/blog-dev.log
-
 
